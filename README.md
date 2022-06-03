@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,postcss,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 <!--
 **dekitsuneco/dekitsuneco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
