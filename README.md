@@ -1,10 +1,14 @@
-<a href="https://github.com/dekitsuneco">
-  <img src="./github-header-image.png" />
-</a>
+<p align="center">
+  <a href="https://github.com/dekitsuneco">
+    <img src="./github-header-image.png" />
+  </a>
+</p>
 
-<a href="https://skillicons.dev" align="right">
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev" align="right">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux" />
+  </a>
+</p>
 
 <!--![Header](./github-header-image.png)-->
 
