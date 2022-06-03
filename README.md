@@ -1,16 +1,15 @@
-<div style="display:flex;justify-content:space-between">
-  <div>
+  <p align="left">
     <a href="https://github.com/dekitsuneco">
       <img src="./github-header-image.png" />
     </a>
-  </div>
+  <p>
 
-  <div>
+  <p align="right">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3" />
     </a>
-  </div>
-</div>
+  </p>
+
 <!--![Header](./github-header-image.png)-->
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)-->
