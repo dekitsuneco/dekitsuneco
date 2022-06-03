@@ -3,8 +3,14 @@
     <img src="./github-header-image.png" />
   </a>
 </p>
+<!--![Header](./github-header-image.png)-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3" />
+  </a>
+</p>
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)-->
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
