@@ -1,4 +1,8 @@
-![Header](./github-header-image.png) 
+<p align="center">
+  <a href="https://github.com/dekitsuneco">
+    <img src="./github-header-image.png" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)
 
@@ -6,7 +10,7 @@
 
 <a href="https://t.me/dekitsuneco">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a>
+</a>
 
 <!--
 **dekitsuneco/dekitsuneco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
