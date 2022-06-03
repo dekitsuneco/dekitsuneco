@@ -4,6 +4,7 @@
   </a>
 </p>
 
+# About me
 <p align="center">
   <a href="https://skillicons.dev" align="right">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux" />
