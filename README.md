@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between">
+<div style="display:flex;justify-content:space-between">
   <div>
     <a href="https://github.com/dekitsuneco">
       <img src="./github-header-image.png" />
