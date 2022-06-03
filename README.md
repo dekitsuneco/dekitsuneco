@@ -3,6 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white @dekitsuneco
 <!--
 **dekitsuneco/dekitsuneco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
