@@ -2,7 +2,7 @@
   <img src="./github-header-image.png" />
 </a>
 
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" align="right">
   <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3" />
 </a>
 
