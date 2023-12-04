@@ -15,7 +15,7 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,redux&perline=3)](https://skillicons.dev)-->
 
-I am a junior developer with the passion for *Frontend*, *Japanese*, *Arknights*, and *modern technologies*.
+I am a middle frontend developer with the passion for *Frontend*, *Japanese*, *Arknights*, and *modern technologies*.
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
