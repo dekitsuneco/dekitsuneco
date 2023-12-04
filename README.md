@@ -13,7 +13,7 @@
 
 <!--![Header](./github-header-image.png)-->
 
-<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,typescript,react,redux&perline=3)](https://skillicons.dev)-->
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,redux&perline=3)](https://skillicons.dev)-->
 
 I am a junior developer with the passion for *Frontend*, *Japanese*, *Arknights*, and *modern technologies*.
 
