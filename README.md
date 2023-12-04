@@ -7,7 +7,7 @@
 # About me
 <p align="center">
   <a href="https://skillicons.dev" align="right">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,tailwind,materialui,typescript,react,redux" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,redux" />
   </a>
 </p>
 
